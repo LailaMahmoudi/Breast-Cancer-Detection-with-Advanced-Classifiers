@@ -41,7 +41,7 @@
  * Checking for the correlation 
  
  
-![Checking for correlation](images/correlation.png)
+![](correlation.png)
 
  
   * plotting the highly correlated pairs
