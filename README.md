@@ -1,4 +1,4 @@
-# Breast-Cancer-Predictions-With-SVM : Project Overview
+# Breast Cancer Diagnosis Powered by Machine Learning : Project Overview
 
 
 ![](https://mlfjqdsf5ptg.i.optimole.com/iQrIoNc-LQvF_N5U/w:800/h:400/q:69/https://nationaldaycalendar.com/wp-content/uploads/2014/10/Breast-Cancer-Awareness-Month-October-1.jpg)
